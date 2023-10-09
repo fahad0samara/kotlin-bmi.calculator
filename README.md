@@ -1,7 +1,1 @@
 
-
-# kotlin-bmi.calculator
-
-
-
-
